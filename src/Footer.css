@@ -1,0 +1,22 @@
+.footer {
+    background-color: #111111;
+    padding-top: 15rem;
+    padding-bottom: 4rem;
+    grid-column: 1 / 13;
+    text-align: center;
+ }
+
+ .footer__copyright {
+    color: #fff;
+    font-size: 1.8rem;
+ }  
+
+ .footer__copyright--link {
+    text-decoration: none; 
+    color: #f80616de;
+    transition: all .3s;
+ }
+
+ .footer__copyright--link:hover {
+    color: orange;
+ }
