@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Hit this [link](https://netflix-clone-b369c.web.app/) to see my work deployed in Firebase :)
 
-Hit this [link](https://netflix-clone-b369c.web.app/) to see my work deployed in Firebase :)
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
